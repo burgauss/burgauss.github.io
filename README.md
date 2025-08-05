@@ -115,6 +115,8 @@ This web development project is a responsive landing page designed to atract mor
 
 
 ### Inverted Pendulum Robot
+![Repository](https://github.com/burgauss/invertedPendulumRobot)
+
 This project implements a controlling using reinforcement learning for an inverted pendulum robot, it forms part of a project made in collaboration with the department of mechanical engineering. Full document can be found in https://www.academia.edu/143237558/Technical_Manual_Inverted_Pendulum_Robot_V1.
 
 **Technology Used**
