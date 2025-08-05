@@ -1,5 +1,11 @@
 # QA Engineer
 
+## Contact
+- *E-mail*: burgos.135@gmail.com
+![Linkedin](www.linkedin.com/in/juan-antonio-burgos-coronado)
+![Discord](https://discord.com/users/burgos_90136)
+
+
 ## About me
 QA Tester with a background in Mechatronics Engineering and more than 3 years of experience in
 software development and automated testing. Specialized in web and mobile application testing using
@@ -13,6 +19,11 @@ Project coordination – Communication – Motivated to find solutions – Organ
 Management skills – self-taught – Team player – Manual tests – automated tests - C++, C#
 MVVM - Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP – PLC – HTML
 -RESTful API Testing – CSS - Jira
+
+## Languages
+- English
+- German
+- Spanish
 
 
 ## Profesional Experience
@@ -66,3 +77,52 @@ MVVM - Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - 
     - Hands on experience with PLC, Industrial Automation, Sensorics, Actuator
 
 ## Projects
+### QA Urban Routes
+![Repository](https://github.com/burgauss/QA_UrbanRoutesApp)
+The application Urban routes is an uber type application that allows several functionality that need to be tested
+- Different types of tarfis
+- Option to send a message to the driver
+- possibility to pay by cash or card
+- extra selection of commodities like ice cream or blankets
+
+This project test the well functioning of the Urban Routes Project, it test for the following behaviors:
+- Configure the address (this part is written for you as an example).
+- Select the Comfort tariff.
+- Fill in the phone number.
+- Add a credit card
+- Write a message to the controller.
+- Order a blanket and tissues.
+- Order 2 ice creams.
+- The modal to find a cab appears.
+
+**Technology used**
+- Javascript
+- Python
+- HTML
+- CSS
+- Selenium
+- Postamn
+- Linux
+
+### Coronaditos Landing Page
+![Repository](https://github.com/burgauss/CoronaditosLandingPage)
+This web development project is a responsive landing page designed to atract more guests to an Airbnb appartment, it includes pictures and interactivity that enhance user engagement and basic functionality. The project is built using a vanilla web stack.
+
+**Technology Used**
+- HTML
+- CSS
+- Javascript
+
+
+### Inverted Pendulum Robot
+This project implements a controlling using reinforcement learning for an inverted pendulum robot, it forms part of a project made in collaboration with the department of mechanical engineering. Full document can be found in https://www.academia.edu/143237558/Technical_Manual_Inverted_Pendulum_Robot_V1.
+
+**Technology Used**
+- C++
+- Python
+- Arduino microcontroller
+- ROS (Robotic Operating System)
+- Linux
+- Platform IO
+
+
