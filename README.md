@@ -47,3 +47,22 @@ MVVM - Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - 
     - Experience in process planning, industrial engineering methodologies, and the development of Bill of Materials (BOM) for production lines.
 
 
+## Eduaction
+- QA Engineer | Tripleten | Online
+    - Designed and executed over 100 functional, exploratory and regression test cases.
+    - Test automation with Selenium WebDriver and Python for critical flows.
+    - Implemented API testing using Postman, identifying and documenting key defects.
+    - Executed mobile testing in Android environment with Android Studio.
+    - Developed bug and test reports using clear and reproducible methodology
+
+- M.Sc. Mechatronics | Universität Siegen | Siegen, Germany
+    - Technical knowledge of mechanical and electrical systems. The technical fundamentals are of relevance when working in software projects in these branches, then we can find optimal solutions for our customers
+    - Thesis: A Deep Learning Architecture for Evaluating Industrial Dynamic Weighing
+    - Hands on experience with technologies like PLC (Programming Logic Controller), Python, C++, Sensorics, Actuators
+
+- B.Eng. Electronics | Instituto Tecnológico de Mérida | Mérida, México
+    - Main focus on automation with microcontrollers with embedeed programming using languages like C++ and python
+    - Internship in Volkswagen Mexico, where I collaborated with the technical team of the automated warehouse to develop a software to improve predictive maintenances.
+    - Hands on experience with PLC, Industrial Automation, Sensorics, Actuator
+
+## Projects
