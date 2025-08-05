@@ -26,7 +26,7 @@ Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP �
 
 ## Profesional Experience
 
-### Software Enginnering
+### Software Engineering
 
 - IT Manager | Granwin Group | Mérida, Mexico
     - Controlling and issuing reports related to machine efficiency and maintenance
@@ -56,7 +56,7 @@ Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP �
     - Experience in process planning, industrial engineering methodologies, and the development of Bill of Materials (BOM) for production lines.
 
 
-## Eduaction
+## Education
 - QA Engineer | Tripleten | Online
     - Designed and executed over 100 functional, exploratory and regression test cases.
     - Test automation with Selenium WebDriver and Python for critical flows.
