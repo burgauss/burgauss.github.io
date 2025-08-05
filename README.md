@@ -2,8 +2,9 @@
 
 ## Contact
 - *E-mail*: burgos.135@gmail.com
-![Linkedin](www.linkedin.com/in/juan-antonio-burgos-coronado)
-![Discord](https://discord.com/users/burgos_90136)
+- [Linkedin](www.linkedin.com/in/juan-antonio-burgos-coronado)
+- [Discord Profile](https://discord.com/users/123456789012345678)
+
 
 
 ## About me
@@ -15,10 +16,7 @@ automated tests, with a focus on efficiency, quality and continuous improvement.
 position as a QA Tester Jr where I can contribute to quality assurance from day one.
 
 ## Technologies
-Project coordination – Communication – Motivated to find solutions – Organization –
-Management skills – self-taught – Team player – Manual tests – automated tests - C++, C#
-MVVM - Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP – PLC – HTML
--RESTful API Testing – CSS - Jira
+Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP – PLC – HTML -RESTful API Testing – CSS - Jira - – Manual tests – automated tests - C++, C#, MVVM - Project coordination – Communication – Motivated to find solutions – Organization – Management skills – self-taught – Team player
 
 ## Languages
 - English
@@ -78,7 +76,8 @@ MVVM - Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - 
 
 ## Projects
 ### QA Urban Routes
-![Repository](https://github.com/burgauss/QA_UrbanRoutesApp)
+[Repository](https://github.com/burgauss/QA_UrbanRoutesApp)
+
 The application Urban routes is an uber type application that allows several functionality that need to be tested
 - Different types of tarfis
 - Option to send a message to the driver
@@ -105,7 +104,7 @@ This project test the well functioning of the Urban Routes Project, it test for 
 - Linux
 
 ### Coronaditos Landing Page
-![Repository](https://github.com/burgauss/CoronaditosLandingPage)
+[Repository](https://github.com/burgauss/CoronaditosLandingPage)
 This web development project is a responsive landing page designed to atract more guests to an Airbnb appartment, it includes pictures and interactivity that enhance user engagement and basic functionality. The project is built using a vanilla web stack.
 
 **Technology Used**
@@ -115,7 +114,7 @@ This web development project is a responsive landing page designed to atract mor
 
 
 ### Inverted Pendulum Robot
-![Repository](https://github.com/burgauss/invertedPendulumRobot)
+[Repository](https://github.com/burgauss/invertedPendulumRobot)
 
 This project implements a controlling using reinforcement learning for an inverted pendulum robot, it forms part of a project made in collaboration with the department of mechanical engineering. Full document can be found in https://www.academia.edu/143237558/Technical_Manual_Inverted_Pendulum_Robot_V1.
 
