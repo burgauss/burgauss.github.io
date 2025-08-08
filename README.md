@@ -5,8 +5,6 @@
 - [Linkedin](www.linkedin.com/in/juan-antonio-burgos-coronado)
 - [Discord Profile](https://discord.com/users/123456789012345678)
 
-
-
 ## About me
 QA Tester with a background in Mechatronics Engineering and more than 3 years of experience in
 software development and automated testing. Specialized in web and mobile application testing using
@@ -15,65 +13,11 @@ teams in Germany and Mexico. Skilled in the design, execution and documentation 
 automated tests, with a focus on efficiency, quality and continuous improvement. I am looking for a
 position as a QA Tester Jr where I can contribute to quality assurance from day one.
 
-## Technologies
-Python – NumPy - Pandas- SQL – JavaScript – Selenium – Postman - HTTP – PLC – HTML -RESTful API Testing – CSS - Jira - – Manual tests – automated tests - C++, C#, MVVM - Project coordination – Communication – Motivated to find solutions – Organization – Management skills – self-taught – Team player
-
 ## Languages
 - English
 - German
 - Spanish
-
-
-## Profesional Experience
-
-### Software Engineering
-
-- IT Manager | Granwin Group | Mérida, Mexico
-    - Controlling and issuing reports related to machine efficiency and maintenance
-    - Supervise the proper operation of the machines related to the steam generator
-    - Coordinate maintenance related activities to the steam generator auxiliary systems
-
-- Software Developer | Lachmann und Rink | Freudenberg, Germany
-    - I participated in the development of an industrial app with MVVM architecture in C#
-    - I managed REST API calls optimizing the efficiency of the backend
-    - Decreased integration errors between frontend and backend by 40%
-
-- Sofware Developer | AMI Fordertechnik | Lückenbach, Germany
-    - Implementation of a dynamic weighing system using AI and the DeepConvLSTM algorithm
-    - Automation with microcontrollers and C++ for functional testing
-    - Data analysis was implemented with tools of python, like NumPy, Pandas, Matplotlib
-
-### Production and Quality Engineering
-
-- Operations Assistent Steam Generator | CFE | Mérida, México
-    - Controlling and issuing reports related to machine efficiency and maintenance
-    - Supervise the proper operation of the machines related to the steam generator
-    - Coordinate maintenance related activities to the steam generator auxiliary systems
-
-- Production Engineering Team Lead | Leoni Wiring Systems | Mérida, Mexico
-    - Leading the product engineering team by coordinating interdepartmental efforts to optimize manufacturing efficiency and resolve operational challenges
-    - Actively participated in the production process and plant setup
-    - Experience in process planning, industrial engineering methodologies, and the development of Bill of Materials (BOM) for production lines.
-
-
-## Education
-- QA Engineer | Tripleten | Online
-    - Designed and executed over 100 functional, exploratory and regression test cases.
-    - Test automation with Selenium WebDriver and Python for critical flows.
-    - Implemented API testing using Postman, identifying and documenting key defects.
-    - Executed mobile testing in Android environment with Android Studio.
-    - Developed bug and test reports using clear and reproducible methodology
-
-- M.Sc. Mechatronics | Universität Siegen | Siegen, Germany
-    - Technical knowledge of mechanical and electrical systems. The technical fundamentals are of relevance when working in software projects in these branches, then we can find optimal solutions for our customers
-    - Thesis: A Deep Learning Architecture for Evaluating Industrial Dynamic Weighing
-    - Hands on experience with technologies like PLC (Programming Logic Controller), Python, C++, Sensorics, Actuators
-
-- B.Eng. Electronics | Instituto Tecnológico de Mérida | Mérida, México
-    - Main focus on automation with microcontrollers with embedeed programming using languages like C++ and python
-    - Internship in Volkswagen Mexico, where I collaborated with the technical team of the automated warehouse to develop a software to improve predictive maintenances.
-    - Hands on experience with PLC, Industrial Automation, Sensorics, Actuator
-
+  
 ## Projects
 ### QA Urban Routes
 [Repository](https://github.com/burgauss/QA_UrbanRoutesApp)
@@ -126,4 +70,21 @@ This project implements a controlling using reinforcement learning for an invert
 - Linux
 - Platform IO
 
+## Education
+- QA Engineer | Tripleten | Online
+    - Designed and executed over 100 functional, exploratory and regression test cases.
+    - Test automation with Selenium WebDriver and Python for critical flows.
+    - Implemented API testing using Postman, identifying and documenting key defects.
+    - Executed mobile testing in Android environment with Android Studio.
+    - Developed bug and test reports using clear and reproducible methodology
+
+- M.Sc. Mechatronics | Universität Siegen | Siegen, Germany
+    - Technical knowledge of mechanical and electrical systems. The technical fundamentals are of relevance when working in software projects in these branches, then we can find optimal solutions for our customers
+    - Thesis: A Deep Learning Architecture for Evaluating Industrial Dynamic Weighing
+    - Hands on experience with technologies like PLC (Programming Logic Controller), Python, C++, Sensorics, Actuators
+
+- B.Eng. Electronics | Instituto Tecnológico de Mérida | Mérida, México
+    - Main focus on automation with microcontrollers with embedeed programming using languages like C++ and python
+    - Internship in Volkswagen Mexico, where I collaborated with the technical team of the automated warehouse to develop a software to improve predictive maintenances.
+    - Hands on experience with PLC, Industrial Automation, Sensorics, Actuator
 
